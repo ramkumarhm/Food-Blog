@@ -1,0 +1,66 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+.fbHead{
+    display: flex;
+    position: fixed;
+    justify-content: space-evenly;
+    width: 100%;
+    font-size: 18px;
+    background-color: whitesmoke;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    
+    
+}
+
+.About{
+    padding-top: 6%;
+    
+}
+
+h5{
+    padding: 1%;
+    
+}
+
+.It-Size{
+    font-style: italic;
+    font-size: 16px;
+}
+
+.Font-Size{
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 14px;
+    
+}
+
+.Tags{
+    color: white;
+}
+
+.Tags span{
+    margin: 43px 2px;
+    background-color: rgb(165, 165, 165);
+    padding: 1px 2px;
+    font-size: 12px;
+    
+}
+
+span:first-child{
+   background-color: black;
+   font-size: 14px;
+}
+
+.Align{
+    padding: 5px;
+}
+.Align p{
+    margin: 0%;
+    line-height: 20px;
+
+}
